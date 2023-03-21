@@ -2,7 +2,7 @@
 
 > A dark theme for Atom UI
 
-![Screenshot](https://github.com/dracula/atom-ui/blob/master/ss.png?raw=true)
+![Screenshot](https://github.com/dracula/atom-ui/blob/master/screenshot.png?raw=true)
 
 ## Install
 
